@@ -4,3 +4,7 @@ Pluralsight
 Codecademy
 III
 Not sure wether to intergrate with UCD Bootcamp stuff
+
+Some example for me to start:
+https://github.com/nordicgiant2/awesome-landing-page
+https://github.com/StartBootstrap/startbootstrap-landing-page
