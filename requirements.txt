@@ -16,6 +16,7 @@ I do fight, but in pluralsight java roleIQ, and it's pretty good honestly.
 I'm tired, not doing it today.
 Nah, not doing it~
 Still nah
+fork commit doesn't count as I can see it.....
 
 Some example for me to start:
 https://github.com/nordicgiant2/awesome-landing-page
