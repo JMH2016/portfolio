@@ -20,6 +20,8 @@ fork commit doesn't count as I can see it.....
 sleepy boy don't want to work
 why am I sooo tired...
 
+2/3 - Tired for sure
+
 Some example for me to start:
 https://github.com/nordicgiant2/awesome-landing-page
 https://github.com/StartBootstrap/startbootstrap-landing-page
