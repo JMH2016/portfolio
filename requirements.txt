@@ -5,20 +5,20 @@ Codecademy
 III
 Not sure wether to intergrate with UCD Bootcamp stuff
 
-I'm so cold, don't want to move....
-Still cold......
-;)
-You're not doing it, right?
-Yes
-Maybe this weekend?
-Tomorrow, we fight!
-I do fight, but in pluralsight java roleIQ, and it's pretty good honestly.
-I'm tired, not doing it today.
-Nah, not doing it~
-Still nah
-fork commit doesn't count as I can see it.....
-sleepy boy don't want to work
-why am I sooo tired...
+1/9 - I'm so cold, don't want to move....
+1/10- Still cold......
+1/11- ;)
+1/12- You're not doing it, right?
+1/13- Yes
+1/14- Maybe this weekend?
+1/15- Tomorrow, we fight!
+1/16- I do fight, but in pluralsight java roleIQ, and it's pretty good honestly.
+1/20- I'm tired, not doing it today.
+1/21- Nah, not doing it~
+1/22- Still nah
+1/25- fork commit doesn't count as I can see it.....
+1/28- sleepy boy don't want to work
+1/29- why am I sooo tired...
 
 2/3 - Tired for sure
 2/5 - zzzz
@@ -31,6 +31,22 @@ why am I sooo tired...
 2/13- LEGO Colosseum 1/8!
 2/14- EsliteBookStore!
 2/15- So it begins
+2/16- Portfolio(potential choices)
+       ├─/One page slider
+       ├─/Personal Landing page 
+       │  ├─/CV
+       │  ├─/blog
+       │  └─/MOOCs
+       ├─/Demo online Pharmacy
+       ├─/Demo online Health Center
+       ├─/PKF Landing page
+       │  ├─/Accounting Learning
+       │  └─/Auditing learning
+       ├─/Channel Well Technology Landing page
+       └─/Coding Journey
+          ├─100 of codes
+
+///////////////////////Give the Tree some space yah?////////////////////
 
 Some example for me to start:
 https://github.com/nordicgiant2/awesome-landing-page
