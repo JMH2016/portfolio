@@ -62,6 +62,7 @@ Not sure wether to intergrate with UCD Bootcamp stuff
 3/1 - Fin report
 3/2 - why
 3/3 - no
+3/4 - I'm so fuxxing tired
 
 Some example for me to start:
 https://github.com/nordicgiant2/awesome-landing-page
