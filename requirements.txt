@@ -63,6 +63,7 @@ Not sure wether to intergrate with UCD Bootcamp stuff
 3/2 - why
 3/3 - no
 3/4 - I'm so fuxxing tired
+3/5 - Busy as fyxx
 
 Some example for me to start:
 https://github.com/nordicgiant2/awesome-landing-page
